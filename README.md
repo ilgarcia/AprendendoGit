@@ -4,4 +4,4 @@
  Por que usar o diff
  Aprendendo na pratica
  
- Essa linha eu adicionei diretamente no site
+ Essa linha eu adicionei diretamente no site.
